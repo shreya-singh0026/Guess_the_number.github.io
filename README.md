@@ -1,10 +1,34 @@
 <h1>Guess_the_number<h1>
-A simple web-based "Guess the Number" game created with HTML, CSS, and JavaScript.
+  
+<p>A simple web-based "Guess the Number" game created with HTML, CSS, and JavaScript.<p></p>
 
 <h2>Features</h2>
 <ul>
-  <ol>The computer selects a random number, and the player has to guess it within a certain number of attempts.</ol>
-  <ol>Provides hints (higher/lower) to help the player guess the number.</ol>
-  <ol>Informs the player when they've won or lost the game.</ol>
-  <ol>Option to play again.</ol>
+  <ol>1. The computer selects a random number, and the player has to guess it within a certain number of attempts.</ol>
+  <ol>2. Provides hints (higher/lower) to help the player guess the number.</ol>
+  <ol>3. Informs the player when they've won or lost the game.</ol>
+  <ol>4. Option to play again.</ol>
 </ul>
+
+# Getting Started
+Follow these instructions to run the game locally on your machine.
+
+# Prerequisites
+A modern web browser (e.g., Chrome, Firefox, Safari) 
+
+# Installation
+1.Clone the repository:
+git clone https://github.com/yourusername/guess-the-number.git
+
+2.Change the working directory:
+cd guess-the-number
+
+3.Open the index.html file in your web browser.
+
+
+How to Play
+
+1.Enter your guess in the input field.
+2.Click the "Submit" button.
+3.You will receive a hint (higher or lower).
+4.Repeat until you guess the number or run out of attempts.
