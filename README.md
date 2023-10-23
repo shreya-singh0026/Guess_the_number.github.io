@@ -1,6 +1,7 @@
-<h1>Guess_the_number<h1>
-  
-<p>A simple web-based "Guess the Number" game created with HTML, CSS, and JavaScript.<p></p>
+# Guess_the_number
+A simple web-based "Guess the Number" game created with HTML, CSS, and JavaScript.
+
+
 
 <h2>Features</h2>
 <ul>
@@ -25,10 +26,16 @@ cd guess-the-number
 
 3.Open the index.html file in your web browser.
 
+<h2>How to Play</h2>
+<ul>
+  <ol>1.Enter your guess in the input field.</ol>
+  <ol>2.Click the "Submit" button.</ol>
+  <ol>3.You will receive a hint (higher or lower).</ol>
+  <ol>4.Repeat until you guess the number or run out of attempts.</ol>
+</ul>
 
-How to Play
 
-1.Enter your guess in the input field.
-2.Click the "Submit" button.
-3.You will receive a hint (higher or lower).
-4.Repeat until you guess the number or run out of attempts.
+
+
+
+
