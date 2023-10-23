@@ -1,6 +1,11 @@
 # Guess_the_number
 
 A simple web-based "Guess the Number" game created with HTML, CSS, and JavaScript.
+
+# Demo
+You can play the game online at<a href=" https://shreya-singh0026.github.io/Guess_the_number.github.io/">Guess_the_Number</a>
+
+
 <h2>Features</h2>
 <ul>
   <ol>1. The computer selects a random number, and the player has to guess it within a certain number of attempts.</ol>
