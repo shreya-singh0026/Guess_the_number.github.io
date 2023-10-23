@@ -1,0 +1,16 @@
+GUESS THE GAME 
+1.in this game , random number,score=20,guess,highscore=0,display message.
+
+2. we have to match the Random Number with my guess number.
+
+3.if the guess number is zero then it display the message "No Number" and score   remain same.
+
+4.else if my guess number is smaller than scret number then it display the "Too Low" and score decreases by 1 and highscore remain same.
+
+5.else if my guess number is greater than scret number then it display the "Too High"and score decreases by 1 and highscore remain same.
+
+6.else if my guess number is equal to scret number then it display the "Correct ans"and score remain same and highscore increases a/c to guess number.
+
+7.if score > highscore , highscore=score , otherwise remain same.
+
+8.this game continue till score > 1 otherwise you lost the game update score value by 0. 
