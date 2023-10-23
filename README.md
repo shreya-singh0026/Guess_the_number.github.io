@@ -3,7 +3,7 @@
 A simple web-based "Guess the Number" game created with HTML, CSS, and JavaScript.
 
 # Demo
-You can play the game online at [View Demo](href=" https://shreya-singh0026.github.io/Guess_the_number.github.io")
+You can play the game online at [View Demo](https://shreya-singh0026.github.io/Guess_the_number.github.io)
 
 
 <h2>Features</h2>
